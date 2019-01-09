@@ -1,0 +1,7 @@
+1930121125574;Mihai Costiug;publicitate
+2940406748957;Rucsandra Pintea;economie
+1881212748940;Razvan Dumitrescu;economie
+1947383928746;Tudor Vasiliu;economie
+1890111234765;Mihai Costea;biologie
+1930708846385;Razvan Todea;matematica
+1751212849209;Tudor Vladimirescu;matematica
